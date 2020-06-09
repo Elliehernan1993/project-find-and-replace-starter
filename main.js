@@ -19,6 +19,10 @@ function getCellElements (currentRowElement) {
     return currentRowElement.querySelectorAll(".cell")
 }
 
+replaceAllButton.addEventListener("click", function(){
+    
+})
+
 
 // YOUR CODE GOES HERE
 
